@@ -1,14 +1,14 @@
-# Chrome Extension boilerplate created with React Typescript
-
+## Stock Chart Extension created with TypeScript !
 ## Getting started
 
-Create a project based on this boilerplate.
+Pull source code to your local machine using git 
 
 ```
-$ npx degit https://github.com/sivertschou/react-typescript-chrome-extension-boilerplate.git#christmas <project-name>
+$ git pull git@github.com:doanlecong/stock_chart.git
 ```
+Or fork your own branch as you need . Be free to do as you want !
 
-Navigate to the project directory and install the dependencies.
+Then navigate to the project directory and install the dependencies.
 
 ```
 $ npm install
